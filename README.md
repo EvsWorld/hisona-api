@@ -6,18 +6,6 @@ Hisona is an open source project dedicated to making the way we learn about hist
 
 The purpose of Hisona is to make learning about history easier and more fun. By leveraging AI technolohies Hisona makes the history around us more accessible and an engaging conversational experience that brings historical artefacts to 'life'.
 
-## Tech Stack
-
-* React Native - Front end library for building user interfaces
-* Reduc - State management
-* Node Koa - Back end web framework
-* IBM Watson - Visual Recognition
-* Limdu - Machine Learning 
-
-## Contact Me
-
-Cameron Jenkinson – [Linkedin](https://www.linkedin.com/in/cameronjjenkinson/)- [GitHub](https://github.com/cjjenkinson) – camjenkinson@gmail.com
-
 # Hisona Platform API
 
 Install dependencies
@@ -32,3 +20,14 @@ Start the server using nodemon
 nodemon server/index.js
 ```
 
+## Tech Stack
+
+* React Native - Front end library for building user interfaces
+* Reduc - State management
+* Node Koa - Back end web framework
+* IBM Watson - Visual Recognition
+* Limdu - Machine Learning 
+
+## Contact Me
+
+Cameron Jenkinson – [Linkedin](https://www.linkedin.com/in/cameronjjenkinson/)- [GitHub](https://github.com/cjjenkinson) – camjenkinson@gmail.com
